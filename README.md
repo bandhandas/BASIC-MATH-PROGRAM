@@ -1,9 +1,6 @@
 # BASIC-MATH-PROGRAM
 
 # Java
-
-This repository contains basic mathematical programs implemented in Java to practice fundamental programming concepts.
-
 ## 🚀 Features
 - Addition, Subtraction, Multiplication, Division
 - Prime Number Check
@@ -27,9 +24,9 @@ Basic-Math-Program/
 
 1. Open terminal in the src folder
 2. Compile the program:
-   java PRIME.JAVA
+   javac #FILE NAME.java
 3. Run the program:
-   java PRIME
+   java #CLASS NAME 
 
 ## 🎯 Purpose
 This project is created to strengthen problem-solving skills and core Java fundamentals.
