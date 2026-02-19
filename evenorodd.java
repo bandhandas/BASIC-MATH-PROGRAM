@@ -1,4 +1,4 @@
-
+## by reminder
 public class evenodd  {
     public static boolean isEven(int n){
         int rem =n % 2;
